@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Lara
-- 👀 I’m interested in machine-leaning and artiaficil intelligence, and I'm enrolled on Drexel's Online Ms degree program in Data Sceince.
+- 👀 I’m interested in machine-leaning and artificial intelligence, and I'm enrolled on Drexel's Online Ms degree program in Data Sceince.
 - 🌱 I’m currently learning how to build & use large language models for predicting epidemiological features of diseases from genomic sequences
 - 💞️ I’m looking to collaborate on machine-learning and on genomic language processing projects 
 - 📫 How to reach me ...
